@@ -7,8 +7,7 @@
 
 
 
-<img src="https://img.shields.io/badge/caiodcw@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="caiodcw@gmail.com">
-<img src="https://img.shields.io/badge/Legend%234321-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" >
+<img src="https://img.shields.io/badge/caiodcw@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="caiodcw@gmail.com"> <img src="https://img.shields.io/badge/Legend%234321-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" >
 
 <hr>
 
